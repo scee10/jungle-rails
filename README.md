@@ -5,13 +5,13 @@ A mini e-commerce application built with Rails 4.2 that allows users to shop fro
 ## Screenshots 
 
 ### Home Page
-!["Screenshot of the home page"]()
+!["Screenshot of the home page"](https://github.com/scee10/jungle-rails/blob/master/docs/Screen%20Shot%202022-04-13%20at%201.05.59%20PM.png?raw=true)
 
 ### Cart
-!["Screenshot of the cart"]()
+!["Screenshot of the cart"](https://github.com/scee10/jungle-rails/blob/master/docs/Screen%20Shot%202022-04-13%20at%201.06.15%20PM.png?raw=true)
 
 ### Admin Page - Creating a New Category
-!["Screenshot of the admin page/categories"]()
+!["Screenshot of the admin page/categories"](https://github.com/scee10/jungle-rails/blob/master/docs/Screen%20Shot%202022-04-13%20at%201.06.44%20PM.png?raw=true)
 
 ## Getting Started 
 
